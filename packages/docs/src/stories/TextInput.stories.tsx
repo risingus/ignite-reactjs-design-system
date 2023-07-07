@@ -3,6 +3,7 @@ import { TextInputProps, TextInput, Box, Text } from '@ignite-ui/react'
 
 export default {
   title: 'Form/Text Input',
+  tags: ['autodocs'],
   component: TextInput,
   decorators: [
     (Story) => (
