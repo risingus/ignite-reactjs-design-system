@@ -1,5 +1,11 @@
 # @ignite-ui/react
 
+## 3.0.0
+
+### Major Changes
+
+- 1ebc118: added tooltip and toast
+
 ## 2.1.1
 
 ### Patch Changes
